@@ -1,1 +1,0 @@
-# derive-ohms-law.py
